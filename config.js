@@ -9,6 +9,7 @@
         params: {
           gatekeeperKey: opts.gatekeeperKey,
           include_units: true,
+          opa_only: true,
         },
       },
       map: {
