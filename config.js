@@ -8,7 +8,7 @@
         },
         params: {
           gatekeeperKey: opts.gatekeeperKey,
-          include_units: true,
+          include_units: false,
           opa_only: true,
         },
       },
